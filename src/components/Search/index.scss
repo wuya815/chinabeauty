@@ -1,0 +1,86 @@
+.searchneirong{
+	padding-top:93px;
+	.zixun{
+		font-size:16px;
+		color:#404040;
+		padding:10px 4px;
+		border-bottom:1px solid red;
+	}
+}
+.shangsou{
+	.sousuo{
+		padding: 1rem 0rem;
+		text-align: center;
+		background-color: #eee;
+		margin-bottom:8px;
+		input{
+			width: 16.3rem;
+			height: 2.48rem;
+    		border:1px solid #ccc;
+    		padding-left: 0.62rem;
+    		border-radius: 0.31rem;
+		}
+		button{
+			padding: 0.745rem 0.87rem;
+			background-color: #ddd;
+			margin-left: 0.745rem;
+			font-size: 0.87rem;
+			border: none;
+			border-radius: 0.31rem;
+		}
+	}
+	.img{
+		display:none;
+		text-align: center;
+		img{
+			padding-top: 5.83rem;
+			width: 17.45rem;
+			height: 6.2rem;
+		}
+	}
+	input:focus{
+    border:1px solid #00b4ff;
+	}
+}
+
+.sounr{
+	height:100%;
+	width:100%;
+
+.biaotu{
+	width:103px;
+	height:77.5px;
+	float:right;
+}
+
+.wenzi{
+		float: left;
+		width: 12.4rem;
+		.title{
+			margin-top:2px;
+			float: left;
+			font-size: 17px;
+			color: #282828;
+			line-height: 1.2;
+			letter-spacing: 1px;
+		}
+
+		}
+.source{
+	padding-top:80px;
+	color: #9B9B9B;
+	font-size: 0.745rem;
+	margin-bottom: 2.96rem;
+	span{
+		float: right;
+	}
+	img{
+		float: left;
+		margin-right: 0.37rem;
+		margin-top: 0.186rem;
+		display: inline;
+		width: 1.22rem;
+		height: 0.745rem;
+	}
+}
+}

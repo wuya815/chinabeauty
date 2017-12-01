@@ -1,0 +1,49 @@
+
+#ulTvcss{
+	padding-top:100px;
+	padding-left:10px;
+	padding-right:8px;
+	.tvneirong{
+		padding-left:0px;
+		list-style: none;
+		height: 7.58rem;
+		.shang{
+			.title{
+				font-size: 17px;
+				color: #282828;
+				line-height: 1.2;
+				letter-spacing: 1px;
+			}
+			img{
+				margin-right: 0.37rem;
+				display: inline;
+				width: 100%;
+				height: 187.5px;
+			}
+			.wguan{
+				font-size:14px;
+				color:#898989;
+			}
+		}
+		ul{
+
+			padding-left:0px;
+			li{
+				list-style:none;
+				.weiguan{
+					margin-bottom:10px;
+					font-size:14px;
+					color:#898989;
+					span{
+						margin-left:40%;
+					}
+				}
+			}
+		}
+		
+		img{
+			width:100%;
+			height: 187.5px;
+		}
+	}
+}

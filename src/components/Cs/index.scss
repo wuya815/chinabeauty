@@ -1,0 +1,46 @@
+
+#ulCscss{
+	padding-left:10px;
+	padding-right:8px;
+	.csneirong{
+		padding-left:0px;
+		border-bottom: 1px solid #f1f1f1;
+		list-style: none;
+		height: 6.58rem;
+		.wenzi{
+			float: left;
+			width: 12.4rem;
+			.title{
+				margin-top:2px;
+				float: left;
+				font-size: 17px;
+				color: #282828;
+				line-height: 1.2;
+				letter-spacing: 1px;
+			}
+
+			}
+		.source{
+			padding-top:80px;
+			color: #9B9B9B;
+			font-size: 0.745rem;
+			margin-bottom: 2.96rem;
+			span{
+				float: right;
+			}
+		img{
+			float: left;
+			margin-right: 0.37rem;
+			margin-top: 0.186rem;
+			display: inline;
+			width: 1.22rem;
+			height: 0.745rem;
+		}
+		}
+		img{
+			float: right;
+			width:6.46rem;
+			height: 4.84rem;
+		}
+	}
+}
